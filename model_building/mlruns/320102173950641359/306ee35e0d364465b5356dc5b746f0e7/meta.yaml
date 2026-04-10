@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/306ee35e0d364465b5356dc5b746f0e7/artifacts
+end_time: 1774978891484
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 306ee35e0d364465b5356dc5b746f0e7
+run_name: popular-smelt-430
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978890617
+status: 3
+tags: []
+user_id: root

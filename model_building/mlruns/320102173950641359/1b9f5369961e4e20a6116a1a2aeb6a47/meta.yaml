@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/1b9f5369961e4e20a6116a1a2aeb6a47/artifacts
+end_time: 1774978937596
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 1b9f5369961e4e20a6116a1a2aeb6a47
+run_name: gifted-stag-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978936740
+status: 3
+tags: []
+user_id: root

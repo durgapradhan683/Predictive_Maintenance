@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/6edba86be6224e4e91e48af07e82e1aa/artifacts
+end_time: 1774980075042
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 6edba86be6224e4e91e48af07e82e1aa
+run_name: fun-ram-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980074165
+status: 3
+tags: []
+user_id: root

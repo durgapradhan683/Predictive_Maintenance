@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/279544251fd74a678b04f04c2005bb22/artifacts
+end_time: 1774974318926
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 279544251fd74a678b04f04c2005bb22
+run_name: overjoyed-panda-371
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974318002
+status: 3
+tags: []
+user_id: root

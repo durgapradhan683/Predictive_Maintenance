@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/5c914fdf8ca94c25a448abe36a78b6e6/artifacts
+end_time: 1774980067324
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 5c914fdf8ca94c25a448abe36a78b6e6
+run_name: merciful-colt-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980066447
+status: 3
+tags: []
+user_id: root

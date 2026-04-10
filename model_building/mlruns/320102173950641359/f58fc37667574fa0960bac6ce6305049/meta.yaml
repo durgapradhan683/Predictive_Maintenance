@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/f58fc37667574fa0960bac6ce6305049/artifacts
+end_time: 1774978910690
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: f58fc37667574fa0960bac6ce6305049
+run_name: bedecked-jay-339
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978909857
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/340b08ab6fea4e14a67132c85a3d64bd/artifacts
+end_time: 1774979256594
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 340b08ab6fea4e14a67132c85a3d64bd
+run_name: big-hog-549
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979255685
+status: 3
+tags: []
+user_id: root

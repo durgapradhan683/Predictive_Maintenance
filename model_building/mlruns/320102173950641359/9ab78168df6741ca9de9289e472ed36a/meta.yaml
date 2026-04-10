@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/9ab78168df6741ca9de9289e472ed36a/artifacts
+end_time: 1774979248409
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 9ab78168df6741ca9de9289e472ed36a
+run_name: clean-sheep-142
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979247552
+status: 3
+tags: []
+user_id: root

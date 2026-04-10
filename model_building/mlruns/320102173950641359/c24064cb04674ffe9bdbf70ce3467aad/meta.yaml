@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/c24064cb04674ffe9bdbf70ce3467aad/artifacts
+end_time: 1774979219723
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: c24064cb04674ffe9bdbf70ce3467aad
+run_name: rumbling-mink-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979218945
+status: 3
+tags: []
+user_id: root

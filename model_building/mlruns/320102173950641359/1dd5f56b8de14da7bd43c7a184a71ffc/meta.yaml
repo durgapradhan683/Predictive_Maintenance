@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/1dd5f56b8de14da7bd43c7a184a71ffc/artifacts
+end_time: 1774979238754
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 1dd5f56b8de14da7bd43c7a184a71ffc
+run_name: languid-lynx-973
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979237774
+status: 3
+tags: []
+user_id: root

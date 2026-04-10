@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/07dafe84da8140fbbb4bf59febfc2ed0/artifacts
+end_time: 1774979228665
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 07dafe84da8140fbbb4bf59febfc2ed0
+run_name: whimsical-roo-708
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979227590
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/469b04817827436da2232a94f660981b/artifacts
+end_time: 1774980080379
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 469b04817827436da2232a94f660981b
+run_name: learned-shrew-768
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980079396
+status: 3
+tags: []
+user_id: root

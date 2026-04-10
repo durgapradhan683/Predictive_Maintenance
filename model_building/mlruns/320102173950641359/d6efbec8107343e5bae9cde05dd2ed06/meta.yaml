@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/d6efbec8107343e5bae9cde05dd2ed06/artifacts
+end_time: 1774974322673
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: d6efbec8107343e5bae9cde05dd2ed06
+run_name: dazzling-worm-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974321908
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/51e90b734a6c4289b997e3cc782d4777/artifacts
+end_time: 1774974284262
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 51e90b734a6c4289b997e3cc782d4777
+run_name: wistful-robin-940
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974283386
+status: 3
+tags: []
+user_id: root

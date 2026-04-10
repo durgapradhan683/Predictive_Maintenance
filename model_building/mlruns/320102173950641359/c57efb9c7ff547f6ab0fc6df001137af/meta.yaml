@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/c57efb9c7ff547f6ab0fc6df001137af/artifacts
+end_time: 1774978932674
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: c57efb9c7ff547f6ab0fc6df001137af
+run_name: fortunate-dog-678
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978931868
+status: 3
+tags: []
+user_id: root

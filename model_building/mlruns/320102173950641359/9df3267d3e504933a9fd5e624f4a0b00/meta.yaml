@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/9df3267d3e504933a9fd5e624f4a0b00/artifacts
+end_time: 1774978922628
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 9df3267d3e504933a9fd5e624f4a0b00
+run_name: redolent-hound-575
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978921785
+status: 3
+tags: []
+user_id: root

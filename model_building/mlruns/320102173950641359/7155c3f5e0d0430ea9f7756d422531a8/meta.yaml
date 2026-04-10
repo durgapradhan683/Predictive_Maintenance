@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/7155c3f5e0d0430ea9f7756d422531a8/artifacts
+end_time: 1774978920605
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 7155c3f5e0d0430ea9f7756d422531a8
+run_name: likeable-whale-641
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978919793
+status: 3
+tags: []
+user_id: root

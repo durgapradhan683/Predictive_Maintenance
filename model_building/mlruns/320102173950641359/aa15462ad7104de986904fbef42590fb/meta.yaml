@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/aa15462ad7104de986904fbef42590fb/artifacts
+end_time: 1774979264611
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: aa15462ad7104de986904fbef42590fb
+run_name: clumsy-hound-316
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979263512
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/d3984d81f48b4f0bb2c4ddc2ab1cb314/artifacts
+end_time: 1774980049506
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: d3984d81f48b4f0bb2c4ddc2ab1cb314
+run_name: angry-stoat-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980048708
+status: 3
+tags: []
+user_id: root

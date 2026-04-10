@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/7f42d316419e42b18262ec5dd2b86874/artifacts
+end_time: 1774980079272
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 7f42d316419e42b18262ec5dd2b86874
+run_name: resilient-bee-432
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980078347
+status: 3
+tags: []
+user_id: root

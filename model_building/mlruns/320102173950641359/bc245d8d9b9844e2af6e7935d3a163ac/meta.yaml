@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/bc245d8d9b9844e2af6e7935d3a163ac/artifacts
+end_time: 1774974287013
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: bc245d8d9b9844e2af6e7935d3a163ac
+run_name: grandiose-jay-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974286258
+status: 3
+tags: []
+user_id: root

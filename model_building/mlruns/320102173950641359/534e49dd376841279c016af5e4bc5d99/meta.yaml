@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/534e49dd376841279c016af5e4bc5d99/artifacts
+end_time: 1774974267475
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 534e49dd376841279c016af5e4bc5d99
+run_name: unique-fly-291
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974266815
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/7454285e9bd9428c8fb095fff8e29fb0/artifacts
+end_time: 1774980077096
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 7454285e9bd9428c8fb095fff8e29fb0
+run_name: painted-bass-463
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980076186
+status: 3
+tags: []
+user_id: root

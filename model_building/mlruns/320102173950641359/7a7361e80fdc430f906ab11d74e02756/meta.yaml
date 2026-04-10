@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/7a7361e80fdc430f906ab11d74e02756/artifacts
+end_time: 1774978942033
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 7a7361e80fdc430f906ab11d74e02756
+run_name: handsome-whale-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978940910
+status: 3
+tags: []
+user_id: root

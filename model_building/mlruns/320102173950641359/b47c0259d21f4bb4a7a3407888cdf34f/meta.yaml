@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/b47c0259d21f4bb4a7a3407888cdf34f/artifacts
+end_time: 1774980072863
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: b47c0259d21f4bb4a7a3407888cdf34f
+run_name: worried-squid-493
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980071847
+status: 3
+tags: []
+user_id: root

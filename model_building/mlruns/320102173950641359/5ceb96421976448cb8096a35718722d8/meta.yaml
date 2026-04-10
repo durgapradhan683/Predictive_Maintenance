@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/5ceb96421976448cb8096a35718722d8/artifacts
+end_time: 1774979210179
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 5ceb96421976448cb8096a35718722d8
+run_name: unleashed-conch-130
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979209419
+status: 3
+tags: []
+user_id: root

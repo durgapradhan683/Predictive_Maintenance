@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/da6ac08efbbb4b13833f5c2c3769707b/artifacts
+end_time: 1774978915478
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: da6ac08efbbb4b13833f5c2c3769707b
+run_name: crawling-smelt-624
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978914644
+status: 3
+tags: []
+user_id: root

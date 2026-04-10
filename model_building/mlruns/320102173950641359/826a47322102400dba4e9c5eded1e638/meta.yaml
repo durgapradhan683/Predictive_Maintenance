@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/826a47322102400dba4e9c5eded1e638/artifacts
+end_time: 1774974289008
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 826a47322102400dba4e9c5eded1e638
+run_name: fun-rook-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974288165
+status: 3
+tags: []
+user_id: root

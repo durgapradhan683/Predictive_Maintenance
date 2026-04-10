@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/ff61f626438e437185f0fda5effe343b/artifacts
+end_time: 1774979262174
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: ff61f626438e437185f0fda5effe343b
+run_name: mercurial-gnu-781
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979261025
+status: 3
+tags: []
+user_id: root

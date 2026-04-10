@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/ab70d3a43a7f410cb61631634d647c6e/artifacts
+end_time: 1774974277668
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: ab70d3a43a7f410cb61631634d647c6e
+run_name: defiant-kit-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974276890
+status: 3
+tags: []
+user_id: root

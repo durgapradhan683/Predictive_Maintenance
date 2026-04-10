@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/0a3a98a6b5ca451b869da4b848e6946f/artifacts
+end_time: 1774974275150
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 0a3a98a6b5ca451b869da4b848e6946f
+run_name: luminous-mouse-270
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974274444
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/98ff3c04bebc4dd0bc35cd1d76a0958d/artifacts
+end_time: 1774979213189
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 98ff3c04bebc4dd0bc35cd1d76a0958d
+run_name: exultant-finch-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979212222
+status: 3
+tags: []
+user_id: root

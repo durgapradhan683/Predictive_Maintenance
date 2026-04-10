@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/11b23578ac1941df9c1101bf3af3c117/artifacts
+end_time: 1774978936612
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 11b23578ac1941df9c1101bf3af3c117
+run_name: bustling-mule-242
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978935712
+status: 3
+tags: []
+user_id: root

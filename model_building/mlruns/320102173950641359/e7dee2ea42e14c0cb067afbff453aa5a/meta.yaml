@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/e7dee2ea42e14c0cb067afbff453aa5a/artifacts
+end_time: 1774980056801
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: e7dee2ea42e14c0cb067afbff453aa5a
+run_name: delicate-seal-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980055720
+status: 3
+tags: []
+user_id: root

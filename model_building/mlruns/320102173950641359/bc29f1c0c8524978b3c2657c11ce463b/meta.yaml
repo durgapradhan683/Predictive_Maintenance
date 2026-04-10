@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/bc29f1c0c8524978b3c2657c11ce463b/artifacts
+end_time: 1774979229850
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: bc29f1c0c8524978b3c2657c11ce463b
+run_name: polite-croc-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979228828
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/fee245c713024aa787b7c4640656bdc4/artifacts
+end_time: 1774974294735
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: fee245c713024aa787b7c4640656bdc4
+run_name: unique-wolf-445
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974294028
+status: 3
+tags: []
+user_id: root

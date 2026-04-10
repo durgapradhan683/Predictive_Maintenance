@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/80236e2b9758489c8516d013030af83f/artifacts
+end_time: 1774978929789
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 80236e2b9758489c8516d013030af83f
+run_name: intelligent-calf-674
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978928983
+status: 3
+tags: []
+user_id: root

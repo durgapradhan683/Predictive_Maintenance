@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/7f31b3dc692843749058b6419de1801d/artifacts
+end_time: 1774980050516
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 7f31b3dc692843749058b6419de1801d
+run_name: redolent-horse-444
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980049630
+status: 3
+tags: []
+user_id: root

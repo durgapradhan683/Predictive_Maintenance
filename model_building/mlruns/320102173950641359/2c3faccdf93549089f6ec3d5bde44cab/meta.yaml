@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/2c3faccdf93549089f6ec3d5bde44cab/artifacts
+end_time: 1774974325389
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 2c3faccdf93549089f6ec3d5bde44cab
+run_name: mysterious-calf-754
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974324530
+status: 3
+tags: []
+user_id: root

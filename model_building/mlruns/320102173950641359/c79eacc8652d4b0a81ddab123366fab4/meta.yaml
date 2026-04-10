@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/c79eacc8652d4b0a81ddab123366fab4/artifacts
+end_time: 1774978917356
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: c79eacc8652d4b0a81ddab123366fab4
+run_name: thoughtful-snail-683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978916485
+status: 3
+tags: []
+user_id: root

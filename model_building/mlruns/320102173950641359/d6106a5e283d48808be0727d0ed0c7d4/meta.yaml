@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/d6106a5e283d48808be0727d0ed0c7d4/artifacts
+end_time: 1774979214231
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: d6106a5e283d48808be0727d0ed0c7d4
+run_name: charming-pug-925
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979213312
+status: 3
+tags: []
+user_id: root

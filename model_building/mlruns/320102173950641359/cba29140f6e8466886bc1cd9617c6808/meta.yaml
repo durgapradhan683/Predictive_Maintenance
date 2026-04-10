@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/cba29140f6e8466886bc1cd9617c6808/artifacts
+end_time: 1774979268095
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: cba29140f6e8466886bc1cd9617c6808
+run_name: mysterious-wasp-617
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979267061
+status: 3
+tags: []
+user_id: root

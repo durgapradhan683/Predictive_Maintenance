@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/b769e6ae7a50479ab586c385dd86294e/artifacts
+end_time: 1774979263379
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: b769e6ae7a50479ab586c385dd86294e
+run_name: agreeable-doe-60
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979262327
+status: 3
+tags: []
+user_id: root

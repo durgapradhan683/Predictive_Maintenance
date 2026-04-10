@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/08d16ebead4b4ebdb3233e3ca4e98726/artifacts
+end_time: 1774978899881
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 08d16ebead4b4ebdb3233e3ca4e98726
+run_name: rebellious-horse-795
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978899084
+status: 3
+tags: []
+user_id: root

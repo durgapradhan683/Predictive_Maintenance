@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/2b207a3490eb40b986d2b091f3ae6fca/artifacts
+end_time: 1774974299479
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 2b207a3490eb40b986d2b091f3ae6fca
+run_name: skittish-ram-958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974298608
+status: 3
+tags: []
+user_id: root

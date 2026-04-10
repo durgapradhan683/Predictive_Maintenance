@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/599ae9acc2c2484da60d327536a7e37c/artifacts
+end_time: 1774974298512
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 599ae9acc2c2484da60d327536a7e37c
+run_name: fun-sheep-700
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974297692
+status: 3
+tags: []
+user_id: root

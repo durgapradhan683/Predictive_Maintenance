@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/30876bbd38b74ea39518015192dd1e0d/artifacts
+end_time: 1774980071693
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 30876bbd38b74ea39518015192dd1e0d
+run_name: adaptable-yak-422
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980070642
+status: 3
+tags: []
+user_id: root

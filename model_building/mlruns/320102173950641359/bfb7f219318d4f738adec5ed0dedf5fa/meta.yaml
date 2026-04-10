@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/bfb7f219318d4f738adec5ed0dedf5fa/artifacts
+end_time: 1774979221656
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: bfb7f219318d4f738adec5ed0dedf5fa
+run_name: silent-gull-275
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979220833
+status: 3
+tags: []
+user_id: root

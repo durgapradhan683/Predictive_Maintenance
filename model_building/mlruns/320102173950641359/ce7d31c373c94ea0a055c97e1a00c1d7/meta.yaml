@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/ce7d31c373c94ea0a055c97e1a00c1d7/artifacts
+end_time: 1774974317864
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: ce7d31c373c94ea0a055c97e1a00c1d7
+run_name: overjoyed-wasp-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974316822
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/7980b256c0cd41578d865ba923205071/artifacts
+end_time: 1774974324421
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 7980b256c0cd41578d865ba923205071
+run_name: casual-gnat-59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974323662
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/a706a9c731f8469eb9f7ea04d46f0660/artifacts
+end_time: 1774974283214
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: a706a9c731f8469eb9f7ea04d46f0660
+run_name: unequaled-bass-652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974282398
+status: 3
+tags: []
+user_id: root

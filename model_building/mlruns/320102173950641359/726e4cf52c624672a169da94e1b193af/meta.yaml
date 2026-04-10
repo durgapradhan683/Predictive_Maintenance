@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/726e4cf52c624672a169da94e1b193af/artifacts
+end_time: 1774974288055
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 726e4cf52c624672a169da94e1b193af
+run_name: treasured-shrew-599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974287116
+status: 3
+tags: []
+user_id: root

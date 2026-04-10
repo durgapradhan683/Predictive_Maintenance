@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/a11ced2f42154a0f977568a56a45adfe/artifacts
+end_time: 1774978888638
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: a11ced2f42154a0f977568a56a45adfe
+run_name: flawless-asp-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978887855
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/6df7326f0d804b8898ae2d31fc41f3f1/artifacts
+end_time: 1774980061141
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 6df7326f0d804b8898ae2d31fc41f3f1
+run_name: righteous-cat-502
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980060283
+status: 3
+tags: []
+user_id: root

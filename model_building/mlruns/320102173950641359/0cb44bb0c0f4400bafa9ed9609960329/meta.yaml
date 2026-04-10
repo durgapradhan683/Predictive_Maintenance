@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/0cb44bb0c0f4400bafa9ed9609960329/artifacts
+end_time: 1774979239680
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 0cb44bb0c0f4400bafa9ed9609960329
+run_name: shivering-cub-817
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979238861
+status: 3
+tags: []
+user_id: root

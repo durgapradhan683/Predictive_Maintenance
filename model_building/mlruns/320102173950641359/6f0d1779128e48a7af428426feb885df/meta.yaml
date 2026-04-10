@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/6f0d1779128e48a7af428426feb885df/artifacts
+end_time: 1774978928814
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 6f0d1779128e48a7af428426feb885df
+run_name: bemused-slug-648
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978928020
+status: 3
+tags: []
+user_id: root

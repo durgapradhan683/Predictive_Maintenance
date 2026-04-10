@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/c58ea197f6dd48fa80a5af477b19d159/artifacts
+end_time: 1774978944416
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: c58ea197f6dd48fa80a5af477b19d159
+run_name: gentle-squid-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978943519
+status: 3
+tags: []
+user_id: root

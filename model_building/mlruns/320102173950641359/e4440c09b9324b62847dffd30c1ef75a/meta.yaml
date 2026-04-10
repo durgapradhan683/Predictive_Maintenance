@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/e4440c09b9324b62847dffd30c1ef75a/artifacts
+end_time: 1774980114895
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: e4440c09b9324b62847dffd30c1ef75a
+run_name: clean-rook-615
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980114035
+status: 3
+tags: []
+user_id: root

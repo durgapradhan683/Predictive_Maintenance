@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/be30c4727d4245129768fa3fcc2a66fb/artifacts
+end_time: 1774979251384
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: be30c4727d4245129768fa3fcc2a66fb
+run_name: clean-colt-113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979250541
+status: 3
+tags: []
+user_id: root

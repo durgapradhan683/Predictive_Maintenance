@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/757265ff5a934b0ea146b8bb8b4b0e91/artifacts
+end_time: 1774974310234
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 757265ff5a934b0ea146b8bb8b4b0e91
+run_name: intrigued-pig-87
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974309419
+status: 3
+tags: []
+user_id: root

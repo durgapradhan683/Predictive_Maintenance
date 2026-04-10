@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/b6ece1e938f349ddb40dab811ec6fa95/artifacts
+end_time: 1774979206526
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: b6ece1e938f349ddb40dab811ec6fa95
+run_name: delicate-wren-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979205758
+status: 3
+tags: []
+user_id: root

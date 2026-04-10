@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/8a035b0d540f4894a91fa044d9aead9d/artifacts
+end_time: 1774980091523
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 8a035b0d540f4894a91fa044d9aead9d
+run_name: bedecked-colt-839
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980090627
+status: 3
+tags: []
+user_id: root

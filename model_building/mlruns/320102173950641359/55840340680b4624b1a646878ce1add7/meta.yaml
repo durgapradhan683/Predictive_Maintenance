@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/55840340680b4624b1a646878ce1add7/artifacts
+end_time: 1774978885902
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 55840340680b4624b1a646878ce1add7
+run_name: marvelous-ray-588
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978885156
+status: 3
+tags: []
+user_id: root

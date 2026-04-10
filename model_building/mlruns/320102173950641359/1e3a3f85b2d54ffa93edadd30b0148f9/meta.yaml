@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/1e3a3f85b2d54ffa93edadd30b0148f9/artifacts
+end_time: 1774979234692
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 1e3a3f85b2d54ffa93edadd30b0148f9
+run_name: sincere-gnat-40
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979233809
+status: 3
+tags: []
+user_id: root

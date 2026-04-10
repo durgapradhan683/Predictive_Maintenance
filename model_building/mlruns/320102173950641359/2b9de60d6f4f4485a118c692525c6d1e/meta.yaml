@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/2b9de60d6f4f4485a118c692525c6d1e/artifacts
+end_time: 1774978914506
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 2b9de60d6f4f4485a118c692525c6d1e
+run_name: flawless-snail-785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978913652
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/85ce5f5a218745fa9be30269fe85f435/artifacts
+end_time: 1774979225578
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 85ce5f5a218745fa9be30269fe85f435
+run_name: clean-hawk-636
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979224795
+status: 3
+tags: []
+user_id: root

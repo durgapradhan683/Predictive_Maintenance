@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/f48e2462679741cfa95a46c841938cf0/artifacts
+end_time: 1774980059106
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: f48e2462679741cfa95a46c841938cf0
+run_name: bemused-sloth-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980058234
+status: 3
+tags: []
+user_id: root

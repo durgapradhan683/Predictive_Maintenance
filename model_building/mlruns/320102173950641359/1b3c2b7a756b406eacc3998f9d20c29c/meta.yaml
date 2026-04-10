@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/1b3c2b7a756b406eacc3998f9d20c29c/artifacts
+end_time: 1774979227466
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 1b3c2b7a756b406eacc3998f9d20c29c
+run_name: debonair-vole-745
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979226698
+status: 3
+tags: []
+user_id: root

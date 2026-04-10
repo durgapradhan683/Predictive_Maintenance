@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/b29875c5b043405abaa86870e67bba8f/artifacts
+end_time: 1774974270119
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: b29875c5b043405abaa86870e67bba8f
+run_name: indecisive-roo-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974269371
+status: 3
+tags: []
+user_id: root

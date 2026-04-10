@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/66ef4364e87041e6be9933c23fc56cc0/artifacts
+end_time: 1774978933649
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 66ef4364e87041e6be9933c23fc56cc0
+run_name: awesome-roo-239
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978932785
+status: 3
+tags: []
+user_id: root

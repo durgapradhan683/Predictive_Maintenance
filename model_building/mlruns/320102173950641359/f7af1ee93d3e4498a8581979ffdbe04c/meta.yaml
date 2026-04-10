@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/f7af1ee93d3e4498a8581979ffdbe04c/artifacts
+end_time: 1774974311080
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: f7af1ee93d3e4498a8581979ffdbe04c
+run_name: dapper-newt-908
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974310347
+status: 3
+tags: []
+user_id: root

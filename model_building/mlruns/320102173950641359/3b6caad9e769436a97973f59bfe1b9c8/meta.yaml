@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/3b6caad9e769436a97973f59bfe1b9c8/artifacts
+end_time: 1774978927886
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 3b6caad9e769436a97973f59bfe1b9c8
+run_name: orderly-vole-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978927136
+status: 3
+tags: []
+user_id: root

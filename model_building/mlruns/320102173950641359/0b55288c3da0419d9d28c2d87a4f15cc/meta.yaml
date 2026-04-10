@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/0b55288c3da0419d9d28c2d87a4f15cc/artifacts
+end_time: 1774980095781
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 0b55288c3da0419d9d28c2d87a4f15cc
+run_name: fortunate-lynx-554
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980094924
+status: 3
+tags: []
+user_id: root

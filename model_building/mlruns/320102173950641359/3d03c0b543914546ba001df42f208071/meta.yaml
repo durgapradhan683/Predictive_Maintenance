@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/3d03c0b543914546ba001df42f208071/artifacts
+end_time: 1774980088045
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 3d03c0b543914546ba001df42f208071
+run_name: orderly-donkey-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980086989
+status: 3
+tags: []
+user_id: root

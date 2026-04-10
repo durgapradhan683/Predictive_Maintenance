@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/dfb828ecdb90402a9b980f817fdfe7e4/artifacts
+end_time: 1774978896282
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: dfb828ecdb90402a9b980f817fdfe7e4
+run_name: classy-boar-293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978895477
+status: 3
+tags: []
+user_id: root

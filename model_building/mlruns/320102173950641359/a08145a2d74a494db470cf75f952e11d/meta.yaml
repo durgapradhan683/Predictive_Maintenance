@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/a08145a2d74a494db470cf75f952e11d/artifacts
+end_time: 1774974300812
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: a08145a2d74a494db470cf75f952e11d
+run_name: bittersweet-dog-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974299723
+status: 3
+tags: []
+user_id: root

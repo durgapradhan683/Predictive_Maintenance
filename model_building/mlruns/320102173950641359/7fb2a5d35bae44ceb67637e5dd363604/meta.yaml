@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/7fb2a5d35bae44ceb67637e5dd363604/artifacts
+end_time: 1774980102187
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 7fb2a5d35bae44ceb67637e5dd363604
+run_name: abundant-lark-813
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980101200
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/ac013a74929f4fb9bc358dbe295bae9c/artifacts
+end_time: 1774979253322
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: ac013a74929f4fb9bc358dbe295bae9c
+run_name: thoughtful-crane-775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979252523
+status: 3
+tags: []
+user_id: root

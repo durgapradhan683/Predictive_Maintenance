@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/b169125f9de34b02ae0a27374c3daf00/artifacts
+end_time: 1774979252406
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: b169125f9de34b02ae0a27374c3daf00
+run_name: sassy-hound-197
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979251542
+status: 3
+tags: []
+user_id: root

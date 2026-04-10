@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/88ff6cdf07c74c229b6814cd17560a82/artifacts
+end_time: 1774979231746
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 88ff6cdf07c74c229b6814cd17560a82
+run_name: stylish-bee-690
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979230965
+status: 3
+tags: []
+user_id: root

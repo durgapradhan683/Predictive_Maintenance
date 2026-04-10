@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/e4ec83bc4dcd4688a213b0411e074e60/artifacts
+end_time: 1774980113925
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: e4ec83bc4dcd4688a213b0411e074e60
+run_name: intrigued-horse-591
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980113057
+status: 3
+tags: []
+user_id: root

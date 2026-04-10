@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/f980bd0a93844fe2a141ee10320ff7c7/artifacts
+end_time: 1774978913515
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: f980bd0a93844fe2a141ee10320ff7c7
+run_name: hilarious-fawn-602
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978912683
+status: 3
+tags: []
+user_id: root

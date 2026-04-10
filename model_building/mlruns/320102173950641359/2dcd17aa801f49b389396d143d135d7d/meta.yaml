@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/2dcd17aa801f49b389396d143d135d7d/artifacts
+end_time: 1774978898098
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 2dcd17aa801f49b389396d143d135d7d
+run_name: worried-bird-44
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978897291
+status: 3
+tags: []
+user_id: root

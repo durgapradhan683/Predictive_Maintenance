@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/4a7292bde81a4410bde6dca6521fd1dd/artifacts
+end_time: 1774980086852
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 4a7292bde81a4410bde6dca6521fd1dd
+run_name: angry-croc-443
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980085912
+status: 3
+tags: []
+user_id: root

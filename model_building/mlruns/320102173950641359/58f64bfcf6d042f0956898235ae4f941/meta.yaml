@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/58f64bfcf6d042f0956898235ae4f941/artifacts
+end_time: 1774978926057
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 58f64bfcf6d042f0956898235ae4f941
+run_name: amusing-stoat-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978925054
+status: 3
+tags: []
+user_id: root

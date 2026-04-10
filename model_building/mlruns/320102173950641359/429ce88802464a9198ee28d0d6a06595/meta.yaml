@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/429ce88802464a9198ee28d0d6a06595/artifacts
+end_time: 1774978950664
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 429ce88802464a9198ee28d0d6a06595
+run_name: trusting-goat-761
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978828437
+status: 3
+tags: []
+user_id: root

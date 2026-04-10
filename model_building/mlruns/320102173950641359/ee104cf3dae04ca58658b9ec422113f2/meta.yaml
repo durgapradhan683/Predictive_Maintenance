@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/ee104cf3dae04ca58658b9ec422113f2/artifacts
+end_time: 1774978921687
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: ee104cf3dae04ca58658b9ec422113f2
+run_name: loud-loon-939
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978920760
+status: 3
+tags: []
+user_id: root

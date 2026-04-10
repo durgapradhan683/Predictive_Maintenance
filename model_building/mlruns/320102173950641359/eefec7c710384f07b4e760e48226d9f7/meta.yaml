@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/eefec7c710384f07b4e760e48226d9f7/artifacts
+end_time: 1774979220717
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: eefec7c710384f07b4e760e48226d9f7
+run_name: gaudy-trout-637
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979219885
+status: 3
+tags: []
+user_id: root

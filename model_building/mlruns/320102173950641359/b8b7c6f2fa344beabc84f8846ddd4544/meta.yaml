@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/b8b7c6f2fa344beabc84f8846ddd4544/artifacts
+end_time: 1774980074030
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: b8b7c6f2fa344beabc84f8846ddd4544
+run_name: fortunate-asp-991
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980073037
+status: 3
+tags: []
+user_id: root

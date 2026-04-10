@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/16144e8a77d74f369fa0864df8945658/artifacts
+end_time: 1774974309317
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 16144e8a77d74f369fa0864df8945658
+run_name: intrigued-goat-560
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974308585
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/f59472ca915241aaa81ea003c771c35b/artifacts
+end_time: 1774980058119
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: f59472ca915241aaa81ea003c771c35b
+run_name: angry-sheep-300
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980056956
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/f4a14e87e9814a6d986eeb11ceaab444/artifacts
+end_time: 1774979215185
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: f4a14e87e9814a6d986eeb11ceaab444
+run_name: wistful-vole-466
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979214373
+status: 3
+tags: []
+user_id: root

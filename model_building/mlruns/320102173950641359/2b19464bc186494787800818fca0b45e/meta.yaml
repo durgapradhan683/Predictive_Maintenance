@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/2b19464bc186494787800818fca0b45e/artifacts
+end_time: 1774974275971
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 2b19464bc186494787800818fca0b45e
+run_name: clumsy-moth-734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974275249
+status: 3
+tags: []
+user_id: root

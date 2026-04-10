@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/16cde7979b574aabb0a583d8b8eccd2f/artifacts
+end_time: 1774980104574
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 16cde7979b574aabb0a583d8b8eccd2f
+run_name: enthused-gnat-271
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774980103372
+status: 3
+tags: []
+user_id: root

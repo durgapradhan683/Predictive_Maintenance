@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/aea6288f5bdb4afb8a2b95d216518439/artifacts
+end_time: 1774979241855
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: aea6288f5bdb4afb8a2b95d216518439
+run_name: hilarious-roo-479
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979240988
+status: 3
+tags: []
+user_id: root

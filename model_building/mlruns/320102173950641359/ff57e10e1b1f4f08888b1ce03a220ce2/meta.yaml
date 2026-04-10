@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/ff57e10e1b1f4f08888b1ce03a220ce2/artifacts
+end_time: 1774979222752
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: ff57e10e1b1f4f08888b1ce03a220ce2
+run_name: upbeat-penguin-175
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774979221764
+status: 3
+tags: []
+user_id: root

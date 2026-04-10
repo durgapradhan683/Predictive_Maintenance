@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/a3d9ef342f1f4e7480b2f3b876cd9265/artifacts
+end_time: 1774974332073
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: a3d9ef342f1f4e7480b2f3b876cd9265
+run_name: youthful-donkey-963
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974212529
+status: 3
+tags: []
+user_id: root

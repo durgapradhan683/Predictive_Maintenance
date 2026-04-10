@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/e1e6e99ab7bf49f39a2747361ff92314/artifacts
+end_time: 1774978931768
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: e1e6e99ab7bf49f39a2747361ff92314
+run_name: calm-ray-504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978930932
+status: 3
+tags: []
+user_id: root

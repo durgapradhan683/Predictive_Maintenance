@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/f4dc8f920f5d40c7ba322db3cbd02a90/artifacts
+end_time: 1774978894424
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: f4dc8f920f5d40c7ba322db3cbd02a90
+run_name: crawling-bass-557
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978893654
+status: 3
+tags: []
+user_id: root

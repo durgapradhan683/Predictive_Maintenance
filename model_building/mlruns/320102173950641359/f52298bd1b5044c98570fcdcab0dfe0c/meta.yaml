@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/f52298bd1b5044c98570fcdcab0dfe0c/artifacts
+end_time: 1774978911628
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: f52298bd1b5044c98570fcdcab0dfe0c
+run_name: victorious-cow-681
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774978910799
+status: 3
+tags: []
+user_id: root

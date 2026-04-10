@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/320102173950641359/3655cdeba00d416991657b2b7615ba4d/artifacts
+end_time: 1774974302078
+entry_point_name: ''
+experiment_id: '320102173950641359'
+lifecycle_stage: active
+run_id: 3655cdeba00d416991657b2b7615ba4d
+run_name: upset-eel-355
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1774974300942
+status: 3
+tags: []
+user_id: root
